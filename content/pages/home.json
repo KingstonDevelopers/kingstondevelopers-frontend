@@ -7,8 +7,8 @@
     }
   ],
   "hero": {
-    "headline": "Welcome to Tina Grande.",
-    "textline": "This template is filled with sample content to get you started.",
+    "headline": "Welcome to kdevs",
+    "textline": "Oh hey, this is json not markdown",
     "ctas": [
       {
         "label": "Read The Blog",
